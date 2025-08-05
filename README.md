@@ -1,6 +1,6 @@
 # Implementación del Algoritmo Backpropagation desde Cero
 
-Este repositorio contiene una implementación del algoritmo de **retropropagación (backpropagation)** en Python, desarrollada como componente práctico para un reporte de investigación de la materia de Álgebra Lineal.
+Este repositorio contiene una implementación del algoritmo de **retropropagación (backpropagation)** en Python, desarrollada como componente práctico para un reporte de investigación de la materia de Álgebra Lineal Avanzada.
 
 El objetivo de este proyecto es demostrar el funcionamiento del algoritmo paso a paso, desde sus fundamentos matemáticos hasta una implementación funcional capaz de resolver problemas no lineales como el XOR.
 
