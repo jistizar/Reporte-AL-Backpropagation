@@ -81,10 +81,8 @@ Entrada: [1 1], Predicción: 0
 #### Gráficos Generados
 
 1.  **Evolución del Error:** Muestra cómo el error de la red disminuye a medida que avanzan las épocas de entrenamiento.
-    ![Gráfico de Error vs. Épocas](error_history.png)
 
 2.  **Frontera de Decisión:** Visualiza cómo la red ha aprendido a clasificar el espacio de entrada para resolver el problema XOR.
-    ![Frontera de Decisión XOR](decision_boundary.png)
 
 ### Análisis de Resultados
 
